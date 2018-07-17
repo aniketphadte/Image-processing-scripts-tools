@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+#following are the paths of haar cascade files
 face_cascade= cv2.CascadeClassifier('C:\\Users\\ANIKET\\Desktop\\pythonFiles\\haarcascade_frontalface_default.xml')
 eye_cascade= cv2.CascadeClassifier('C:\\Users\\ANIKET\\Desktop\\pythonFiles\\haarcascade_eye.xml')
 
