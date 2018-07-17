@@ -13,11 +13,11 @@ import cv2
 import argparse
 
 #Original image paths
-pathPosRaw = "C:\\Users\\ANIKET\\Desktop\\pythonFiles\\rawData\\positive\\"
-pathNegRaw = "C:\\Users\\ANIKET\\Desktop\\pythonFiles\\rawData\\negative\\"
+pathPosRaw = "D:\\pythonFiles\\rawData\\positive\\"
+pathNegRaw = "D:\\pythonFiles\\rawData\\negative\\"
 #Destination paths to save the images
-pathPos ="C:\\Users\\ANIKET\\Desktop\\pythonFiles\\positive\\"
-pathNeg ="C:\\Users\\ANIKET\\Desktop\\pythonFiles\\negative\\"
+pathPos ="D:\\pythonFiles\\positive\\"
+pathNeg ="D:\\pythonFiles\\negative\\"
 
 #height and width of the positive image
 max_pos_width = 100
